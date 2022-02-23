@@ -24,7 +24,15 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
+The build is minified and the filenames include the hashes.\![Screenshot (144)](https://user-images.githubusercontent.com/76200523/155426192-4e841313-5688-454d-b900-5dc61e6d769d.png)
+![Screenshot (145)](https://user-images.githubusercontent.com/76200523/155426214-3293a511-eff3-4548-b1e1-975462715d72.png)
+![Screenshot (146)](https://user-images.githubusercontent.com/76200523/155426224-6431f95d-4953-4e9c-9fc6-2acf58c1d612.png)
+![Screenshot (147)](https://user-images.githubusercontent.com/76200523/155426231-bd84f172-19ff-4114-8e24-0409698f5619.png)
+![Screenshot (148)](https://user-images.githubusercontent.com/76200523/155426242-71b00aa5-a1ae-4cfb-bb0f-8f4c60468bc0.png)
+![Screenshot (149)](https://user-images.githubusercontent.com/76200523/155426252-a4eeaa4b-a0ff-429f-b65e-13c9b4c94090.png)
+![Screenshot (150)](https://user-images.githubusercontent.com/76200523/155426261-1ad1a0a1-8704-4646-93f0-c561af92ed0a.png)
+![Untitled](https://user-images.githubusercontent.com/76200523/155426267-0faef1f1-7f2b-4d47-a3dc-8faec1bdcae7.png)
+
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
